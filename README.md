@@ -35,8 +35,10 @@ This repository demonstrates practical implementations of:
 
 ### Clone the Repository
 
-git clone https://github.com/<your-username>/spring-security-module.git
+```bash
+git clone https://github.com/Shreyash-03-codes/Spring-Security-Module.git
 cd spring-security-module
+```
 
 ### Build and Run
 
@@ -103,5 +105,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Author
 
 Shreyash Gurav – Developer & Learner of Spring Security  
-GitHub: https://github.com/<your-username>
+GitHub: https://github.com/Shreyash-03-codes
 
